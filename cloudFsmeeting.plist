@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://192.168.5.30:8088/jenkins/view/%E4%BA%91%E4%BC%9A%E8%AE%AE%E4%BA%A7%E5%93%81%E7%BA%BF/job/build_Cloud_FMC_ios/lastSuccessfulBuild/artifact/build/FastMeeting_for_iOS_3.16.2.5_test.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.inpor.fastmeetingcloudios</string>
+				<key>bundle-version</key>
+				<string>3.16.2.5</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>好视通云会议</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
